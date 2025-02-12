@@ -32,11 +32,22 @@ Exploratory Data Analysis (EDA) revealed:
 
 The project followed a structured approach with five key steps:
 
-1. **Preliminary Analysis** – Initial data exploration and cleaning.
+1. **Preliminary Analysis** – Initial data exploration and cleaning. 
+    - [Analysis](https://github.com/franeze/TikTok_Claim_ML/blob/main/1_Preliminary_Analysis/tiktok_preliminary_analysis.ipynb)
+    - [Executive Summary](https://github.com/franeze/TikTok_Claim_ML/blob/main/1_Preliminary_Analysis/Preliminary%20data%20Analysis%20-%20Executive%20summary.pdf)
 2. **Exploratory Data Analysis (EDA)** – Identifying patterns, distributions, and missing data.
-3. **Hypothesis Testing** – T-tests were conducted to validate assumptions about user engagement and video performance. Specifically, the analysis examined whether TikTok videos posted by verified accounts receive significantly more views than those posted by unverified accounts.
-4. **Logistic Regression** – Establishing a baseline classification model.
-5. **Random Forest & XGBoost** – Training and evaluating advanced machine learning models.
+
+    - [Analysis](https://github.com/franeze/TikTok_Claim_ML/blob/main/2_EDA/TikTokEDA.ipynb)
+    - [Executive Summary](https://github.com/franeze/TikTok_Claim_ML/blob/main/2_EDA/executive%20summary.pdf)
+4. **Hypothesis Testing** – T-tests were conducted to validate assumptions about user engagement and video performance. Specifically, the analysis examined whether TikTok videos posted by verified accounts receive significantly more views than those posted by unverified accounts.
+    - [Analysis](https://github.com/franeze/TikTok_Claim_ML/blob/main/3_Hypothesis_testing/Hypothesis_testing.ipynb)
+    - [Executive Summary](https://github.com/franeze/TikTok_Claim_ML/blob/main/3_Hypothesis_testing/Executive_summary.pdf)
+6. **Logistic Regression** – Establishing a baseline classification model.
+    - [Analysis](https://github.com/franeze/TikTok_Claim_ML/blob/main/4_Regression_Model/Tik_Tok_Regression_model.ipynb)
+    - [Executive Summary](https://github.com/franeze/TikTok_Claim_ML/blob/main/4_Regression_Model/executive_summary.pdf)
+7. **Random Forest & XGBoost** – Training and evaluating advanced machine learning models.
+    - [Analysis](https://github.com/franeze/TikTok_Claim_ML/blob/main/5_Random_Forest_and_XGBoost/Tik_Tok_RandomForest_XGBoost.ipynb)
+    - [Executive Summary](https://github.com/franeze/TikTok_Claim_ML/blob/main/5_Random_Forest_and_XGBoost/executive_summary.pdf)
 
 Evaluation metrics included:
 - **Precision, Recall, and F1-score** to measure classification accuracy.
