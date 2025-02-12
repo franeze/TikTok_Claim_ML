@@ -1,7 +1,3 @@
-You can incorporate the dataset description into the **Data Understanding** section of your `README.md` using a well-formatted Markdown table. Here's how you can structure it:  
-
----
-
 ### Data Understanding  
 
 The dataset used in this project contains various features related to TikTok videos, including user engagement metrics and metadata. Below is a detailed description of each column:  
