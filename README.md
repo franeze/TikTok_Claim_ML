@@ -3,6 +3,7 @@ TikTok Report System: Machine Learning Models (Random Forest &amp; XGBoost)
 
 
 # TikTok: Claims vs. Opinions - Machine Learning for Classifying User Reports
+<div style="text-align: center;"><img src="tik_tok_logo2.jpg" alt="Example Image" width="200"/></div>
 
 ## Project Overview
 
