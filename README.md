@@ -22,6 +22,8 @@ The dataset contains various user engagement metrics, including:
 - Shares
 - Downloads
 
+[Access the dataset here](https://github.com/franeze/TikTok_Claim_ML/blob/main/Data_and_DataDict/tiktok_dataset.csv)
+[Access the data dictionary here]()
 Data limitations include missing values and a right-skewed distribution in variables such as view and like counts, which required preprocessing before model training.
 
 Exploratory Data Analysis (EDA) revealed:
